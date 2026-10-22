@@ -13,7 +13,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Workflow rule
 
-Commit after every change to the project, one focused commit per logical change, in Portuguese or English matching existing history. End commit messages with the `Co-Authored-By` trailer.
+Commit after every change to the project, one focused commit per logical change, in Portuguese or English matching existing history. End commit messages with the `Co-Authored-By` trailer. Push to `origin main` right after each commit.
 
 ## Architecture
 
